@@ -1,0 +1,52 @@
+Stock 1: Helix Energy
+Stock 2: Robert's Materials
+Stock 3: Clearmax (Biomedical Tech)
+Stock 4: Ben's Diner (Restaurant)
+Stock 5: Fall (Consumer Tech)
+Stock 6: Absolute Cinema (Movie Theater)
+Stock 7: LBC (News Media)
+Stock 8: Jakarta (Automobile)
+Stock 9: Z (Social Media)
+Stock 10: GoFi (Brokerage Firm)
+
+News Truth Percentages:
+    -Monday: 75% True, 25% False
+    -Wednesday: 50% True, 50% False
+    -Friday: 25% True, 75% False
+
+Real News Content
+- There was a copyright lawsuit with movie theaters, where they did not pay
+the sufficient amount of money to obtain the rights for the movies they were
+displaying.
+
+Fake News Content
+- A WAR BROKE OUT IN ATLANTIS, CAUSING GAS PRICES TO RISE!!!
+- LBC considered cancelling a particular show after 5 seasons. The show was
+successful.
+- After the government closed in on multiple deals with other nations, it led
+to a national recession, forcing companies to raise prices on their products.
+
+News Sources stay persistent in truth/lies throughout the game (except for the
+50/50 news source)
+Truth values:
+2 True
+1 50/50
+2 False
+
+Players can also deduce fake/real news from the wording and tone, and how
+specific the news is
+
+Source A - True
+Source B - True
+Source C - 50/50
+Source D - False
+Source E - False
+Each of these sources is assigned a random truth value and it stays persistent
+within one game session, but is randomized between multiple sessions.
+
+Important Phrases: (real and fake)
+- Buyers are overtaking the stock (so price goes up)
+- Sellers are overtaking the stock (so price goes down)
+- "Panic sell" (price goes down)
+
+25 news articles get pulled from a pool of 50

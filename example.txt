@@ -1,0 +1,18 @@
+Example run:
+
+Suppose each source is assigned a random truth value of the following:
+Source A: True
+Source B: True
+Source C: 50/50
+Source D: False
+Source E: False
+
+On Monday (in-game), there will be 5 news sources. One source will come from
+Source C, giving it a 50/50 chance.
+
+The other 4 sources will be rolled based on the truth value percentage from
+that day. In which case for Monday, we have 75% True and 25% False.
+
+We roll a True or a False based on the percentage in the previous sentence. If
+a True is rolled, then we roll a 50/50 between Source A and Source B. If a
+False is rolled, then we roll a 50/50 between Source D and Source E.
